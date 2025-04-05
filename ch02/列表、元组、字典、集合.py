@@ -1,9 +1,4 @@
-
-
-
 if __name__ == '__main__':
-
-
 
     # 列表、元组、字典、集合
     x_list = [1, 2, 3]                 # 创建列表对象
@@ -18,8 +13,4 @@ if __name__ == '__main__':
 
     print(3 in x_set )                 # 集合对象支持成员关系测试
 
-
-    x_str = "hello"
-    print(x_str[1])
-    print(x_str[-1])
 

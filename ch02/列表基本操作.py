@@ -2,14 +2,14 @@ if __name__ == '__main__':
     list1 = ['physics', 'chemistry', 1997, 2000]
     list2 = [1, 2, 3, 4, 5, 6, 7]
     other_list=[1,3,5,"hello"]
-    # 加法
-    print("加法")
-    print(list1+other_list)
-    print(list2+other_list)
-    # 乘法
-    print("乘法")
-    print(list1*3)
-    print(list2*3)
+    # # 加法
+    # print("加法")
+    # print(list1+other_list)
+    # print(list2+other_list)
+    # # 乘法
+    # print("乘法")
+    # print(list1*3)
+    # print(list2*3)
 
     # 添加 append
     print("添加 append")
