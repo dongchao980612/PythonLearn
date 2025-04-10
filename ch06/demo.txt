@@ -1,3 +1,5 @@
 Hello Python
 向文件写入数据
 我对学习python很痴迷
+我对学习python很痴迷
+我对学习python很痴迷
