@@ -73,7 +73,7 @@ class MyClass:
 
         return obj
 if __name__ == '__main__':
-    # 创建一个类实例
+    #创建一个类实例
     # obj = MyClass(name="Alice", age=30)
     #
     # # 保存为二进制文件

@@ -1,6 +1,9 @@
 if __name__ == '__main__':
-    num=10
-    print("整数 %d 的浮点数为 %f " % (num,num))
-    print("整数 %d 的二进制数为 %s" % (num,bin(num)))
-    print("整数 %d 的八进制数为 %o" % (num,num))
-    print("整数 %d 的十六进制数为 %x" % (num,num))
+    a = 2
+    b = 3
+    c = 4
+    x = 1.141
+    y = a * x * x * x + b * x * x + c
+    # print(y)
+    print("多项式的结果为 %.2f " % y)# 10.88
+    print(round(y,2))

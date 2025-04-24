@@ -7,5 +7,5 @@ if __name__ == '__main__':
     path = ".\\mqtt2\\web2"
     path1 = ".\\mqtt3\\web3"
 
-    os.rmdir(path)
+    # os.rmdir(path)
     shutil.rmtree(path1)

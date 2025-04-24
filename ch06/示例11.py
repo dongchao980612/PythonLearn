@@ -1,10 +1,10 @@
 if __name__ == '__main__':
     # 以二进制模式写入文件
-    with open('output.bin', 'wb') as file:
-        binary_data = bytes([120, 3, 255, 0, 100])
-        file.write(binary_data)
+    # with open('output.bin', 'wb') as file:
+    #     binary_data = bytes([120, 3, 255, 0, 100])
+    #     file.write(binary_data)
 
-    # 以二进制模式读取文件
+    # # 以二进制模式读取文件
     with open('output.bin', 'rb') as file:
         binary_data = file.read()
         print(binary_data)

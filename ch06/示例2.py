@@ -1,7 +1,7 @@
 if __name__ == '__main__':
     import os
 
-    path = "mqtt1\\web1"
+    path = ".\\mqtt1\\web1"
     isExists = os.path.exists(path)
     print(isExists)
     if isExists:
